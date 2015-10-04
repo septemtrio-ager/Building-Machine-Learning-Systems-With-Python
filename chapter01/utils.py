@@ -1,3 +1,4 @@
+# coding: UTF-8
 # dataディレクトリとchartsディレクトリを設定する
 
 import os
