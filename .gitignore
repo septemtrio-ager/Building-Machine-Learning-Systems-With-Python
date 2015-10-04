@@ -1,3 +1,4 @@
 #Building-Machine-Learning-Systems-With-Python gitignore
 
 README.html
+*.pyc
